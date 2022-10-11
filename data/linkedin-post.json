@@ -1,0 +1,56 @@
+{
+  "examples": [
+    {
+      "inputs": {
+        "topic": "How to implement TDD",
+        "tone": "professional"
+      },
+      "outputs": [
+        {
+          "content": "Do you know how to implement Test Driven Development? I'll tell you how I do it.\n\nIt is not easy, it took me several months to get good at it. It's hard to explain, a lot of concepts are involved. It's even harder to explain it in detail in a single post. This is the first part of a series of posts about the practice. I'll start with the basics, then I'll move to more advanced topics. \n\nDo you want to know more? Just let me know in the comments."
+        },
+        {
+          "content": "I’m constantly learning new things. One of them is TDD (Test-driven Development). I’ve already heard about it but only recently I began to put into practice. It’s not easy at all. ‍TDD requires constant control, a lot of discipline and focus, and it’s not easy to implement. But if you want to achieve high quality, you have to implement it in your production code.\n\nHere’s how I correctly implemented this."
+        },
+        {
+          "content": "Before I started testing, I wrote thousands of lines of code and hundreds of bugs. Now I write 100 lines of code and 0 bug.\n\nWhy?\n\n Because I learned and implemented TDD: Test-driven development. "
+        },
+        {
+          "content": "Every time I write some code, I start by thinking about the test that will be used to verify it is working correctly. I do it when I write a function, a class or a library. And then I start writing the test, which will take 10-15 minutes. And then the code for the test takes about 10 minutes. And then I write the code for the function that will be tested by the test. And then I write the code for the function that will call the function that will be tested by the test. And then I can realize that this is stupid, so I delete everything. And then I start again with just one test and one function to call."
+        },
+        {
+          "content": "It's easy to say: test, test and test. It's not so easy to do it, especially when you have a lot of code to test. But if you want to implement TDD, you have to learn how to use the tools. I've been studying it for a few years now and I've tried many tools. So here are my recommendations:"
+        },
+        {
+          "content": "TDD is a great way to incrementally build your code while adding tests to test and validate your code. I use it every day. But it can be hard to implement if you don’t know where to start. So I’m sharing my approach on how to implement TDD:\n1. Set a goal\n2. Write a test\n3. Code the feature\n4. Run the test \n5. Refactor\n6. Repeat! Let me know how it works for you!"
+        }
+      ]
+    },
+    {
+      "inputs": {
+        "topic": "How will AI shape the future of copywriting",
+        "tone": "friendly"
+      },
+      "outputs": [
+        {
+          "content": "I've been thinking a lot lately about how to create an audience on LinkedIn. The truth is, it's not easy. LinkedIn is a crowded space. And we are all trying to get the attention of our target clients and prospects. But how do you create an audience on LinkedIn? First, you need to stop worrying about the followers. You can't buy them on LinkedIn, like you can on Facebook or Twitter. You need to focus on creating quality content. And you need to do it often. Because the thing is, if people find value in your content, they will share it with others. And then others will see your content. And if your content is good and valuable, they will follow you. Let me tell you a story that"
+        },
+        {
+          "content": "If your marketing strategy doesn't include LinkedIn, you're missing a huge opportunity. This is where I build my audience and industry network. I'm talking about LinkedIn of course (and not Facebook). \n\nHere's how: \n1 - Find your audience \n2 - Find content that addresses your audience \n3 - Engage them with this content\n\nMy post will show you how to do it and give you practical tips."
+        },
+        {
+          "content": "The secret to build a community of prospects and influencers on LinkedIn is here: don't be a cold trafficker. Be sincere and honest. Be human. Talk about real issues, offer real solutions. Talk about yourself, not just about your company. Share your stories, your lessons learned. Be transparent and authentic. Show your audience you are not just another salesperson, but a real person with whom they can connect and interact. "
+        },
+        {
+          "content": "It's easier than you think. There's a lot of things you can do to create a consistent audience on LinkedIn. The strategy would work in many social networks, but I find LinkedIn particularly useful to create an audience. Let me tell you why ... ‍If you like to read and learn new things, you're a good candidate to write interesting content that can create an audience.\n\nThe only thing you'll need is consistency. It's rare for anyone to find your profile and connect with you. The chances are low, so you need to do it on your own. ‍Find your niche and the type of content that works for you. Also, make your posts valuable for your readers by adding valuable information and resources: articles, videos,"
+        },
+        {
+          "content": "What do you think is the best way to build your audience on LinkedIn? Do you have a strategy? I do. Let me explain. When I started to post on LinkedIn, I did not have a strategy. I just wanted to create content. And I tried to think of topics that would interest many people ... ‍It was a mistake. After some time, I noticed that my posts were not very successful. Today, I use a different strategy: I always ask myself who is my target and what he wants ... Result? An average of 100% more views of each post than before. \n\nAnd you? Tell me how you do it in the comments."
+        },
+        {
+          "content": "If you're reading this post, you're on LinkedIn. It means that you're looking for a job, trying to find new clients for your services, to develop your visibility, or simply to make friends. But do you really know how much LinkedIn can help you? Let me explain.\n\nLinkedIn is the world's largest professional network: more than 500 million professionals. You can use it to promote your brand and your business and gather new customers. LinkedIn is the ideal network to connect with people in your industry: that's why you should never leave it. And if you have a business that depends on word of mouth, it's the ideal place to build an audience. There are many ways to do it, but I'll tell you the best:"
+        }
+      ]
+    }
+  ]
+}

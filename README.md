@@ -83,6 +83,13 @@ Wireframe for the page:
 
 ![Dynamic page wireframe](./src/public/dynamic-page-wireframe.png)
 
+Here's how it's supposed to work:
+
+1. The user enters text in the input fields corresponding to the template
+2. Once he has completed all the fields, the user clicks on the "Generate" button
+3. The user can see multiple generated content on the left.
+4. The user can edit each generated content (rendered in an input element)
+
 ## Expectations
 
 - Unit tests at least for the API routes you have to create

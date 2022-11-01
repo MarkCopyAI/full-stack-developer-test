@@ -73,7 +73,7 @@ JSON object containing:
 
 ## 3. Create a scalable system to create pages for these templates (and more)
 
-This means that a single JavaScript file will be used for the 3 templates but it will be accesse through 3 different URLs. Example:
+This means that a single JavaScript file will be used for the 3 templates but it will be accessed through 3 different URLs. Example:
 
 - /template/blog-paragraph
 - /template/blog-idea
